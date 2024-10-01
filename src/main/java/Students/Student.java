@@ -7,7 +7,7 @@ public class Student {
     private double[] examScores;
     private int scoreCount;
 
-    // Constructor
+
     public Student(String firstName, String lastName, Double[] initialScores) {
         this.firstName = firstName;
         this.lastName = lastName;
