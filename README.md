@@ -18,11 +18,11 @@ public Passenger( double perBagfee ) {
 this.perBagfee = perBagfee;
 }
 
-#creating array of classes
+# creating array of classes
 Mathequation[] equations = new MathEquations[4]
 equations[0] = new Mathequation()
 array created from class MathEquations.
 
-#Static Members
+# Static Members
 - Field = A value not associated witha specific instance ( All instances access the same value)
 - Method = Performs an action not tied to a specific instance (has access to STATIC MEMBERS ONLY)
